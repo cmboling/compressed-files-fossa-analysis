@@ -1,0 +1,12 @@
+{
+  "referenced-dependencies": [
+    {
+      "name": "glpi-agent_glpi-agent-1",
+      "path": "rpm-test-0/glpi-agent_glpi-agent-1.5-git5d7470de.noarch.rpm"
+    },
+    {
+      "name": "nest-libs-macos-v0",
+      "path": "tar-test-0/nest-libs-macos-v0.10.tar"
+    }
+  ]
+}
